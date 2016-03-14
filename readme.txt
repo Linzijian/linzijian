@@ -1,4 +1,4 @@
 hello world lin
 ac
 new line
-Git tracks changes.
+Git tracks changes of files.
